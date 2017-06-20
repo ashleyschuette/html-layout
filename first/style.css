@@ -1,0 +1,23 @@
+.gray-header {
+  height: 15vh;
+  background: gray;
+}
+
+.white-box {
+background: white;
+height: 80vh;
+}
+
+.container {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.black-footer {
+  background: black;
+  height: 5vh;
+}
+
+body {
+  background: lightgray;
+}
