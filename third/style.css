@@ -1,0 +1,46 @@
+.container {
+  height: 100vh;
+}
+
+header {
+  background: lightgray;
+  padding: 1.5% 0 .75% 1.5%;
+  box-sizing: border-box;
+}
+
+.logo {
+  background: rgb(0, 125, 200);
+  height: 95%;
+  width: 10%;
+}
+.row {
+  height: 14%;
+}
+
+.white {
+  height: 30%;
+  box-sizing: border-box;
+}
+
+.blue {
+  background: rgb(0, 125, 200);
+}
+
+.teal {
+  background: rgb(0, 200, 175);
+}
+
+.green {
+  background: rgb(125, 225, 175);
+}
+
+.yellow {
+  background: rgb(225, 225, 0);
+}
+
+p {
+  font-family: arial;
+  text-align: left;
+  font-size: 22px;
+  padding: 30px 20px;
+}
